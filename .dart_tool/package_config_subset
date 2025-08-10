@@ -82,10 +82,6 @@ vm_service
 3.3
 file:///Users/jatinchaudhary/.pub-cache/hosted/pub.dev/vm_service-14.3.1/
 file:///Users/jatinchaudhary/.pub-cache/hosted/pub.dev/vm_service-14.3.1/lib/
-feature_tooltip
-2.12
-file:///Users/jatinchaudhary/Downloads/feature_tooltip/
-file:///Users/jatinchaudhary/Downloads/feature_tooltip/lib/
 sky_engine
 3.7
 file:///Users/jatinchaudhary/SDKs/flutter/bin/cache/pkg/sky_engine/
@@ -98,4 +94,8 @@ flutter_test
 3.7
 file:///Users/jatinchaudhary/SDKs/flutter/packages/flutter_test/
 file:///Users/jatinchaudhary/SDKs/flutter/packages/flutter_test/lib/
+feature_tooltip
+2.12
+file:///Users/jatinchaudhary/flutter_pubs/feature_tooltip/
+file:///Users/jatinchaudhary/flutter_pubs/feature_tooltip/lib/
 2
