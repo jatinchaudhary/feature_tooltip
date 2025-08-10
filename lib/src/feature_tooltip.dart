@@ -214,7 +214,7 @@ class _FeatureTooltipState extends State<FeatureTooltip>
     // Insert the overlay entry immediately, but position will be updated after
     // first layout.
     _overlayEntry = _createOverlayEntry();
-    Overlay.of(context)?.insert(_overlayEntry!);
+    Overlay.of(context).insert(_overlayEntry!);
     _isVisible = true;
     if (widget.waitDuration > Duration.zero) {
       Future.delayed(widget.waitDuration, () {
@@ -311,7 +311,7 @@ class _FeatureTooltipState extends State<FeatureTooltip>
                     filter: ImageFilter.blur(
                         sigmaX: widget.blurSigma, sigmaY: widget.blurSigma),
                     child: Container(
-                      color: Colors.black.withOpacity(0.0),
+                      color: Colors.black,
                     ),
                   ),
                 ),

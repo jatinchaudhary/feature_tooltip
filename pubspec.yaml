@@ -5,7 +5,6 @@ description: >
   blurring. This widget can be used to replace the default Tooltip widget and
   offers more flexibility for building tooltips in your apps.
 version: 0.0.1
-homepage: ---
 repository: https://github.com/jatinchaudhary/feature_tooltip
 issue_tracker: https://github.com/jatinchaudhary/feature_tooltipissues
 
